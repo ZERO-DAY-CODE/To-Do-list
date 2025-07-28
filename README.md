@@ -15,4 +15,3 @@ Features of the To-Do List<br>
 The styling is minimal and modern, with a green "Add" button and red "Delete" buttons for clear visual feedback.<br>
 Tasks are stored in localStorage, so they remain until the browser cache is cleared.<br>
 The JavaScript includes basic error handling (e.g., preventing empty tasks).<br>
-If you'd like additional features (e.g., task categories, due dates, or filtering), let me know, and I can extend the code!<br>
